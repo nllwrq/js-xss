@@ -1,5 +1,5 @@
 {
-  "name": "xss",
+  "name": "xh-xss",
   "main": "./lib/index.js",
   "typings": "./typings/xss.d.ts",
   "version": "1.0.8",
